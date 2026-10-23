@@ -2,8 +2,8 @@
 
 <img src="header.svg" alt="Imię Nazwisko" width="100%">
 
-<img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,postgres,prisma,java,git" alt="tech stack">
 
+<img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,postgres,prisma,java,git,python,c,cpp" alt="tech stack">
 
 
 ```
